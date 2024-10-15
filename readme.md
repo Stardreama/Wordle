@@ -64,11 +64,13 @@
 
 ## 项目结构
 
+```markdown
 Wordle/
 │
 ├── index.html # 主要的 HTML 文件
 ├── style.css # 样式文件
 └── script.js # 游戏逻辑的 JavaScript 文件
+```
 
 ## 贡献
 
